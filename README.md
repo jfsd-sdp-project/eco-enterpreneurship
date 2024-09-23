@@ -1,4 +1,4 @@
-#ECO-ENTERPRENEURSHIP
+***ECO ENTERPRENEURSHIP***
 
 
 This repository is about the skill development project that we have worked on as a part of our academics.
